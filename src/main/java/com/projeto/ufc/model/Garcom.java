@@ -1,6 +1,7 @@
 package com.projeto.ufc.model;
 
 public class Garcom {
+	private Long codigo;
 	private String nome;
 	private String sobrenome;
 	private int idade;
